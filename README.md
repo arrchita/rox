@@ -36,7 +36,7 @@ The API provides functionality for:
    ```plaintext
    DATABASE_URL=<Your MongoDB connection string>
    THIRD_PARTY_API_URL=https://s3.amazonaws.com/roxiler.com/product_transaction.json
-   PORT=3000
+   PORT=5000
    ```
 
 3. **Initialize Database**:
