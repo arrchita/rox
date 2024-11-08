@@ -80,3 +80,8 @@ The API provides functionality for:
 - **Example Requests**:
   - List Transactions: `GET /api/transactions?month=January&page=1&perPage=10`
   - Get Statistics: `GET /api/statistics?month=January`
+
+- **Results:**:
+![Screenshot 2024-11-07 194702](https://github.com/user-attachments/assets/70829a55-1529-45bf-87e9-be9d409b9b93)
+![Screenshot 2024-11-07 195905](https://github.com/user-attachments/assets/8bdbfe54-7e50-43c1-a6ed-8b5e2c7138f9)
+
